@@ -1,0 +1,11 @@
+Model Information:
+* title:	Galleon and the kraken
+* source:	https://sketchfab.com/3d-models/galleon-and-the-kraken-848e2df3eb2046d0ac3aed8603e12909
+* author:	Tessa Cowan 3D (https://sketchfab.com/TLCowan3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Galleon and the kraken" (https://sketchfab.com/3d-models/galleon-and-the-kraken-848e2df3eb2046d0ac3aed8603e12909) by Tessa Cowan 3D (https://sketchfab.com/TLCowan3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
